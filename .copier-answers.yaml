@@ -1,0 +1,12 @@
+---
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.1.2
+_src_path: gh:radio-aktywne/template-generic
+accountname: radio-aktywne
+description: 'GitHub config :octocat:'
+docs: false
+docsurl: https://radio-aktywne.github.io/.github
+projectname: .github
+releases: false
+reponame: .github
+repourl: https://github.com/radio-aktywne/.github
