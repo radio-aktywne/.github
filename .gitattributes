@@ -1,0 +1,14 @@
+# Don't take some files into account for language stats
+.devcontainer/** linguist-vendored
+.github/workflows/** linguist-vendored
+.trunk/** linguist-vendored
+.vscode/** linguist-vendored
+.copier-answers.yaml linguist-vendored
+.envrc linguist-vendored
+.gitattributes linguist-vendored
+.gitignore linguist-vendored
+copier.nix linguist-vendored
+flake.lock linguist-vendored
+flake.nix linguist-vendored
+README.md linguist-vendored
+Taskfile.dist.yaml linguist-vendored
