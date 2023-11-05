@@ -1,6 +1,5 @@
 <!-- markdownlint-capture -->
-<!-- markdownlint-disable no-trailing-spaces no-multiple-blanks line-length -->
-<!-- trunk-ignore-begin(git-diff-check/error) -->
+<!-- markdownlint-disable -->
 <pre><code>                                                                                                 
                                                                                                  
                                                                                                  
@@ -22,5 +21,4 @@
                                                                                                  
                                                                                                  
                                                                                                  </code></pre>
-<!-- trunk-ignore-end(git-diff-check/error) -->
 <!-- markdownlint-restore -->

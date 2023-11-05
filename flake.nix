@@ -37,6 +37,7 @@
       }: let
         nil = pkgs.nil;
         task = pkgs.go-task;
+        coreutils = pkgs.coreutils;
         trunk = pkgs.trunk-io;
         copier = pkgs.copier;
       in {
@@ -64,6 +65,7 @@
             packages = [
               nil
               task
+              coreutils
               trunk
               copier
             ];
@@ -74,6 +76,7 @@
 
             packages = [
               task
+              coreutils
               copier
             ];
           };
@@ -83,6 +86,7 @@
 
             packages = [
               task
+              coreutils
               trunk
             ];
           };
