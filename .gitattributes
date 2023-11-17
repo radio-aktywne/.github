@@ -1,4 +1,4 @@
 # Mark everything as vendored
 * linguist-vendored
 # Unmark files in profile, so that they are included in language stats
-profile/** -linguist-vendored
+/profile/** -linguist-vendored
