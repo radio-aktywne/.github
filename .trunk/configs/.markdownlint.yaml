@@ -1,10 +1,6 @@
 # Enable all rules by default
 default: true
 
-# Disable checking line length of code blocks
-MD013:
-  code_blocks: false
-
 # Allow multiple top level headers
 MD025: false
 
@@ -13,3 +9,6 @@ MD033: false
 
 # Allow not using top level header
 MD041: false
+
+# Allow non-descriptive link text
+MD059: false
