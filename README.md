@@ -12,5 +12,5 @@ GitHub config :octocat:
 
 ## 💡 About
 
-This is a special repository that contains some configuration files for the
+`.github` is a special repository that contains some configuration files for the
 [`radio-aktywne`](https://github.com/radio-aktywne) organization on GitHub.
